@@ -1,7 +1,7 @@
 body,html {
     margin: 0;
     font: bold 14px/1.4 'Open Sans', arial, sans-serif;
-    background: rgb(241, 238, 238);
+    background: rgb(255, 255, 255);
   }
   ul { 
 
@@ -63,7 +63,7 @@ body,html {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
     /* Set a specific height */
-    height: 50vh;
+    height: 100vh;
   
     /* Position and center the image to scale nicely on all screens */
     background-position: center;
@@ -79,7 +79,7 @@ body,html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(26, 24, 24);
   }
   
  /* Hero start */
